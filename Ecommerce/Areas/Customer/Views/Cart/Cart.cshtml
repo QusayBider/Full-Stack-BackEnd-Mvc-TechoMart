@@ -1,0 +1,145 @@
+﻿@model Cart
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>FoodMart - Free eCommerce Grocery Store HTML Website Template</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="~/css/vendor.css">
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+    <link href="~/css/cart.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <section class="h-100 h-custom" style="background-color: #d2c9ff;">
+        <div class="container py-5 h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-12">
+                    <div class="card card-registration card-registration-2" style="border-radius: 15px;">
+                        <div class="card-body p-0">
+                            <div class="row g-0">
+                                <div class="col-lg-8">
+                                    <div class="p-5">
+                                        <div class="d-flex justify-content-between align-items-center mb-5">
+                                            <h1 class="fw-bold mb-0">Shopping Cart</h1>
+                                            <h6 class="mb-0 text-muted">@Model.Items.Count Item</h6>
+                                        </div>
+                                        <hr class="my-4">
+                                        @{
+                                            var products = ViewBag.Products as List<Ecommerce.Models.Product>;
+                                            var categories = ViewBag.Categories as List<Ecommerce.Models.Category>;
+                                        @foreach (var item in Model.Items)
+                                        {
+                                                var product = products?.Find(p => p.Id == item.Id);
+                                                var categoryId = product?.CategoryId ?? 0;
+                                                var category = categories?.Find(c => c.Id == categoryId);
+
+                                            <div class="row mb-4 d-flex justify-content-between align-items-center">
+                                            <div class="col-md-2 col-lg-2 col-xl-2">
+                                                    <img src="~/images/@item.ImageUrl"
+                                                     class="img-fluid rounded-3" alt="Cotton @item.Name">
+                                            </div>
+                                            <div class="col-md-3 col-lg-3 col-xl-3">
+                                                        <h6 class="text-muted">@category.Name</h6>
+                                                    <h6 class="mb-0">@item.Name</h6>
+                                            </div>
+                                            <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1">
+                                                        <h6 class="mb-0">$@item.UnitPrice</h6>
+                                            </div>
+                                            <div class="col-md-3 col-lg-2 col-xl-2 offset-lg-1">
+                                                <h6 class="mb-0">@item.Quantity item</h6>
+                                            </div>
+                                            <div class="col-md-1 col-lg-1 col-xl-1 text-end">
+                                                        <a href="/Customer/Cart/RemoveFromCart/@item.Id" class="text-muted"><i class="fas fa-times"></i></a>
+                                            </div>
+                                        </div>
+                                        <hr class="my-4">
+                                            
+                                        }
+
+                                        }
+                                        <div class="pt-5">
+                                            <h6 class="mb-0">
+                                                <a href="/Customer/Home/Index" class="text-body">
+                                                    <i class="fas fa-long-arrow-alt-left me-2"></i>Back to shop
+                                                </a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 bg-body-tertiary">
+                                    <div class="p-5">
+                                        <h3 class="fw-bold mb-5 mt-2 pt-1">Summary</h3>
+                                        <hr class="my-4">
+
+                                        <div class="d-flex justify-content-between mb-4">
+                                            <h5 class="text-uppercase">items @Model.Items.Count</h5>
+                                            <h5 id="subtotal-amount">$@Model.TotalAmount</h5>
+                                        </div>
+
+                                        <h5 class="text-uppercase mb-3">Shipping</h5>
+
+                                        <div class="mb-4 pb-2">
+                                            <select id="deliveryOption" class="form-select" onchange="updateTotal()">
+                                                <option value="5">Standard Delivery - $5.00</option>
+                                                <option value="10">Fast Delivery - $10.00</option>
+                                            </select>
+                                        </div>
+
+                                        <h5 class="text-uppercase mb-3">Give code</h5>
+
+                                        <div class="mb-5">
+                                            <div class="form-outline">
+                                                <input type="text" id="form3Examplea2" class="form-control form-control-lg" />
+                                                <label class="form-label" for="form3Examplea2">Enter your code</label>
+                                            </div>
+                                        </div>
+
+                                        <hr class="my-4">
+
+                                        <div class="d-flex justify-content-between mb-5">
+                                            <h5 class="text-uppercase">Total price</h5>
+                                            <h5 id="total-price">$@Model.TotalAmount</h5>
+                                        </div>
+
+                                        <button type="button" class="btn btn-dark btn-block btn-lg">
+                                            Check out
+                                        </button>
+                                    </div>
+                                </div>
+
+                                <script>
+                                    let baseTotal = @Model.TotalAmount;
+
+                                    function updateTotal() {
+                                        const delivery = parseFloat(document.getElementById("deliveryOption").value);
+                                        const total = baseTotal + delivery;
+                                        document.getElementById("total-price").innerText = `$${total.toFixed(2)}`;
+                                    }
+
+                                    // initialize with default delivery value
+                                    window.onload = updateTotal;
+                                </script>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

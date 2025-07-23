@@ -1,0 +1,53 @@
+﻿@section title {
+        View product
+}
+@section pagetitle {
+        Products
+}
+@model List<Product>
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Products Table</h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th style="width: 10px">#</th>
+                    <th class="w-25">Image</th>
+                    <th>Name</th>
+                    <th>Discription</th>
+                    <th class="w-25 text-center">Action</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td class="w-25"> <img class="w-25" src="~/images/@item.Image" /></td>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td class="d-flex justify-content-center ">
+                            <a type="button" href="/Admin/Products/ViewEditProduct/@item.Id" class="btn btn-block btn-info w-30 h-25 m-2">Edit</a>
+                            <a type="button" href="/Admin/Products/DeleteProduct/@item.Id" class="btn btn-block btn-danger w-30 h-25 m-2">Delete</a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer clearfix">
+        <ul class="pagination pagination-sm m-0 float-right">
+            <li class="page-item"><a class="page-link" href="#">«</a></li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">»</a></li>
+        </ul>
+    </div>
+</div>

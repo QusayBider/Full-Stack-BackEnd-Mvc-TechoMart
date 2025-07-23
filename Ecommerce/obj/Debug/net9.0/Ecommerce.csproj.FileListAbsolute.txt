@@ -1,0 +1,509 @@
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\appsettings.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.staticwebassets.runtime.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.staticwebassets.endpoints.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.exe
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.deps.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.runtimeconfig.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.pdb
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.RazorAssemblyInfo.cache
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.RazorAssemblyInfo.cs
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\projectbundle\Ecommerce.bundle.scp.css
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ukstm540yu-b9sayid5wm.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\20orpprlfe-61n19gt1b8.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\itphxkcffk-xtxxf3hu2r.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\s55j8g5w5i-bqjiyaj88i.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\axn734ukif-c2jlpeoesf.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\xq2ywd9lcv-erw9l3u2r3.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\vvnjja3ssm-aexeepp0ev.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\sh21cbd1lm-d7shbmvgxk.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\wsc73v505s-ausgxo2sd3.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\qdcgccotpl-k8d9w2qqmf.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\bmuwmnhtzi-cosvhxvwiu.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\n4y0l6ey0j-ub07r2b239.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\rmw7t6ycwr-fvhpjtyr6v.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0sd0goy0bs-b7pk76d08c.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\psk0cobnxf-fsbi9cje9m.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\lk72ubl72q-rzd6atqjts.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\701m30ltae-ee0r1s7dh0.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ua214hf0wz-dxx9fxp4il.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\5ick12vmeh-jd9uben2k1.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\3rlhujmnqf-khv3u5hwcm.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\nmlpzooj2t-r4e9w2rdcm.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\huy2ncxqd2-lcd1t2u6c8.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\f3hloipwmh-c2oey78nd0.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\cpch6rr2v1-tdbxkamptv.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\95fsrlvaid-j5mq2jizvt.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0f3sizu6on-06098lyss8.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\qe1p8ham94-nvvlpmu67g.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\4j1gxj9c5i-s35ty4nyc5.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\13gihq9gwc-pj5nd1wqec.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\27y7hsfsug-46ein0sx1k.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ueozoc32ad-v0zj4ognzu.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\elqu5vi3oy-37tfw0ft22.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\s0b5y814h3-hrwsygsryq.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0tobjxcmf1-pk9g2wxc8p.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ndq2mmb03a-ft3s53vfgj.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\3eud3sh9n3-6cfz1n2cew.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\8tmldnni6c-6pdc2jztkx.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\spcmv7ak7a-493y06b0oq.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\dgra4pa0rn-iovd86k7lj.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0ieykowxlm-vr1egmr9el.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\mrzcghcmnl-kbrnm935zg.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\x109gskkhh-jj8uyg4cgr.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\91fwslgvgb-y7v9cxd14o.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\vlyuaji46h-notf2xhcfb.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ds2q1cfaz2-h1s4sie4z3.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\pjn1omoctj-63fj8s7r0e.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\7wlppdehhw-0j3bgjxly4.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\yp1azdzk34-47otxtyo56.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\4io2xw1yhd-4v8eqarkd7.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\y5pmixooil-356vix0kms.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\kg1yn3ctpx-83jwlth58m.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\n0661caujj-mrlpezrjn3.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\lod8xpqqtt-lzl9nlhx6b.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\i80gg5a4pn-ag7o75518u.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\viovkcossd-x0q3zqp4vz.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0ny9fnwpar-0i3buxo5is.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\eehntle1bz-o1o13a6vjx.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\h64hce4k6r-ttgo8qnofa.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\lxig41ln9e-2z0ns9nrw6.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\sllw3r2wa4-muycvpuwrr.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\zhdg9jqk81-87fc7y1x7t.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\1zohiiaxg0-mlv21k5csn.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.csproj.Up2Date
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\refint\Ecommerce.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.pdb
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\ref\Ecommerce.dll
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\s4n61ehinl-ik9q8jes66.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\fas6uv7hx5-82vtklac52.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\x2bwdciizk-ouwampjgc7.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\1976b2q7zc-vk81rehhpd.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\j7mkr8t3pm-7rukwvdrpd.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\gwvgjo3of3-eul8rpoton.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\7725vyikd0-hgdmcut990.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\pnbke0pm8p-ak37etxku3.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\w0limnbnwb-2lgfkke7mt.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\9vbb5g7n36-2lgfkke7mt.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\i1zzzoss9m-upvfw3tve8.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\6127p9u82k-9ccuhph3ns.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ac1ctxtm7x-vm77v644vc.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\li7gf1t0th-ok35r3y0oh.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\apl5jrfb7s-1dvioj2731.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\f3ncctx1zi-u5ei7o9gkk.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\yp70oojhax-etqzn9ty0g.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\35k3is9lfx-bkmbqbxq7l.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\5o9x2anucn-rlwfjvtqs3.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\7jpoyhr0hs-dd6z7egasc.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\56x1xy5ikj-jtmsrjfkua.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\sw85e5re27-8h2rnnvupb.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\zc0w4bx2hs-v5dkq0ivw8.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\jamfz34jxd-au0k0t20r3.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\raorjqfx11-akp8kdn8vu.gz
+C:\Users\Qusay\source\repos\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ij3fuu1yeg-tob1o56o1x.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\appsettings.Development.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\appsettings.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.staticwebassets.runtime.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.staticwebassets.endpoints.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.exe
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.deps.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.runtimeconfig.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Ecommerce.pdb
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Azure.Core.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Azure.Identity.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Humanizer.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.ClientModel.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.CodeDom.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Memory.Data.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.csproj.AssemblyReference.cache
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.AssemblyInfoInputs.cache
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.AssemblyInfo.cs
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.csproj.CoreCompileInputs.cache
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.RazorAssemblyInfo.cache
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.RazorAssemblyInfo.cs
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\bundle\Ecommerce.styles.css
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\scopedcss\projectbundle\Ecommerce.bundle.scp.css
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\i1zzzoss9m-upvfw3tve8.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\6127p9u82k-9ccuhph3ns.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ac1ctxtm7x-vm77v644vc.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\li7gf1t0th-ok35r3y0oh.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\apl5jrfb7s-1dvioj2731.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\f3ncctx1zi-u5ei7o9gkk.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\yp70oojhax-etqzn9ty0g.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\35k3is9lfx-bkmbqbxq7l.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\5o9x2anucn-rlwfjvtqs3.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\7jpoyhr0hs-dd6z7egasc.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\56x1xy5ikj-jtmsrjfkua.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\sw85e5re27-8h2rnnvupb.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\zc0w4bx2hs-v5dkq0ivw8.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\jamfz34jxd-au0k0t20r3.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\raorjqfx11-akp8kdn8vu.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\s4n61ehinl-ik9q8jes66.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ukstm540yu-b9sayid5wm.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\fas6uv7hx5-82vtklac52.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\x2bwdciizk-ouwampjgc7.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\20orpprlfe-61n19gt1b8.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\pnbke0pm8p-ak37etxku3.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\1976b2q7zc-vk81rehhpd.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\j7mkr8t3pm-7rukwvdrpd.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\gwvgjo3of3-eul8rpoton.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\7725vyikd0-hgdmcut990.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\itphxkcffk-xtxxf3hu2r.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\s55j8g5w5i-bqjiyaj88i.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\axn734ukif-c2jlpeoesf.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\xq2ywd9lcv-erw9l3u2r3.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\vvnjja3ssm-aexeepp0ev.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\sh21cbd1lm-d7shbmvgxk.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\wsc73v505s-ausgxo2sd3.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\qdcgccotpl-k8d9w2qqmf.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\bmuwmnhtzi-cosvhxvwiu.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\n4y0l6ey0j-ub07r2b239.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\rmw7t6ycwr-fvhpjtyr6v.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0sd0goy0bs-b7pk76d08c.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\psk0cobnxf-fsbi9cje9m.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\lk72ubl72q-rzd6atqjts.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\701m30ltae-ee0r1s7dh0.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ua214hf0wz-dxx9fxp4il.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\5ick12vmeh-jd9uben2k1.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\3rlhujmnqf-khv3u5hwcm.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\nmlpzooj2t-r4e9w2rdcm.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\huy2ncxqd2-lcd1t2u6c8.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\f3hloipwmh-c2oey78nd0.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\cpch6rr2v1-tdbxkamptv.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\95fsrlvaid-j5mq2jizvt.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0f3sizu6on-06098lyss8.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\qe1p8ham94-nvvlpmu67g.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\4j1gxj9c5i-s35ty4nyc5.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\13gihq9gwc-pj5nd1wqec.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\27y7hsfsug-46ein0sx1k.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ueozoc32ad-v0zj4ognzu.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\elqu5vi3oy-37tfw0ft22.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\s0b5y814h3-hrwsygsryq.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0tobjxcmf1-pk9g2wxc8p.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ndq2mmb03a-ft3s53vfgj.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\3eud3sh9n3-6cfz1n2cew.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\8tmldnni6c-6pdc2jztkx.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\spcmv7ak7a-493y06b0oq.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\dgra4pa0rn-iovd86k7lj.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0ieykowxlm-vr1egmr9el.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\mrzcghcmnl-kbrnm935zg.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\x109gskkhh-jj8uyg4cgr.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\91fwslgvgb-y7v9cxd14o.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\vlyuaji46h-notf2xhcfb.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\ds2q1cfaz2-h1s4sie4z3.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\pjn1omoctj-63fj8s7r0e.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\7wlppdehhw-0j3bgjxly4.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\yp1azdzk34-47otxtyo56.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\4io2xw1yhd-4v8eqarkd7.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\y5pmixooil-356vix0kms.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\kg1yn3ctpx-83jwlth58m.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\n0661caujj-mrlpezrjn3.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\lod8xpqqtt-lzl9nlhx6b.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\i80gg5a4pn-ag7o75518u.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\viovkcossd-x0q3zqp4vz.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\0ny9fnwpar-0i3buxo5is.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\eehntle1bz-o1o13a6vjx.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\h64hce4k6r-ttgo8qnofa.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\lxig41ln9e-2z0ns9nrw6.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\sllw3r2wa4-muycvpuwrr.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\zhdg9jqk81-87fc7y1x7t.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\1zohiiaxg0-mlv21k5csn.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\w0limnbnwb-2lgfkke7mt.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\9vbb5g7n36-2lgfkke7mt.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.build.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.development.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.csproj.Up2Date
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\refint\Ecommerce.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.pdb
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\Ecommerce.genruntimeconfig.cache
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\ref\Ecommerce.dll
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\obj\Debug\net9.0\compressed\46gk21a5kh-fdacv2xl3k.gz
+E:\programming languages\Full stack\BackEnd\mvc\Ecommerce\Ecommerce\bin\Debug\net9.0\Newtonsoft.Json.dll

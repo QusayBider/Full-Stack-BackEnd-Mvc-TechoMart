@@ -1,0 +1,26 @@
+﻿@section title {
+    Create
+}
+@section pagetitle {
+        Create Category
+}
+@model Category
+<form method="post" action="/Admin/Categories/AddCategory" enctype="multipart/form-data">
+    <div class="card-body">
+        <div class="form-group">
+            <label for="CategoryName">Name</label>
+            <input type="text" class="form-control" id="CategoryName" placeholder="Enter name" name="Name" value="@Model.Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="custom-file mb-2">
+            <input type="file" class="custom-file-input" id="CategoryImage" name="Image">
+            <label class="custom-file-label" for="CategoryImage">Upload Image</label>
+            <span asp-validation-for="Image" class="text-danger"></span>
+        </div>
+    </div>
+
+
+    <div class="card-footer">
+        <button type="submit" class="btn btn-primary">Create</button>
+    </div>
+</form>

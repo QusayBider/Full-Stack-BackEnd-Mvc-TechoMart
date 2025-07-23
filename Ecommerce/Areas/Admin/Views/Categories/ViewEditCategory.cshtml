@@ -1,0 +1,25 @@
+﻿@model Category
+<form method="post" action="/Admin/Categories/UpdateCategory" enctype="multipart/form-data">
+    <div class="card-body">
+        <input type="hidden" name="Id" value="@Model.Id">
+        <div class="form-group">
+            <label for="CategoryName">Name</label>
+            <input type="text" class="form-control" id="CategoryName" placeholder="Enter name" value="@Model.Name" name="Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group d-flex flex-column ">
+            <label for="CategoryImage">Image</label>
+            <img id="CategoryImage" src="/images/@Model.Image" width="150px" />
+        </div>
+        <div class="custom-file mb-2">
+            <input type="file" class="custom-file-input" id="CategoryImage" name="Image">
+            <label class="custom-file-label" for="CategoryImage">Upload Image</label>
+            <span asp-validation-for="Image" class="text-danger"></span>
+        </div>
+    </div>
+    
+
+    <div class="card-footer">
+        <button type="submit" class="btn btn-primary">Update</button>
+    </div>
+</form>
